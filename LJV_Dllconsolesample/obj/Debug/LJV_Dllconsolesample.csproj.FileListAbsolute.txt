@@ -1,0 +1,16 @@
+C:\Users\amit\documents\visual studio 2012\Projects\LJV_Dllconsolesample\LJV_Dllconsolesample\bin\Debug\LJV_Dllconsolesample.dll.config
+C:\Users\amit\documents\visual studio 2012\Projects\LJV_Dllconsolesample\LJV_Dllconsolesample\bin\Debug\LJV_Dllconsolesample.dll
+C:\Users\amit\documents\visual studio 2012\Projects\LJV_Dllconsolesample\LJV_Dllconsolesample\bin\Debug\LJV_Dllconsolesample.pdb
+C:\Users\amit\documents\visual studio 2012\Projects\LJV_Dllconsolesample\LJV_Dllconsolesample\bin\Debug\LJV_Dllconsolesample.tlb
+C:\Users\amit\documents\visual studio 2012\Projects\LJV_Dllconsolesample\LJV_Dllconsolesample\obj\Debug\LJV_Dllconsolesample.Properties.Resources.resources
+C:\Users\amit\documents\visual studio 2012\Projects\LJV_Dllconsolesample\LJV_Dllconsolesample\obj\Debug\LJV_Dllconsolesample.csproj.GenerateResource.Cache
+C:\Users\amit\documents\visual studio 2012\Projects\LJV_Dllconsolesample\LJV_Dllconsolesample\obj\Debug\LJV_Dllconsolesample.dll
+C:\Users\amit\documents\visual studio 2012\Projects\LJV_Dllconsolesample\LJV_Dllconsolesample\obj\Debug\LJV_Dllconsolesample.pdb
+C:\Users\amit\documents\visual studio 2012\Projects\LJV_Dllconsolesample\LJV_Dllconsolesample\obj\Debug\LJV_Dllconsolesample.csprojResolveAssemblyReference.cache
+D:\requirements\LJV_Dllconsolesample\LJV_Dllconsolesample\obj\Debug\LJV_Dllconsolesample.Properties.Resources.resources
+D:\requirements\LJV_Dllconsolesample\LJV_Dllconsolesample\obj\Debug\LJV_Dllconsolesample.csproj.GenerateResource.Cache
+D:\requirements\LJV_Dllconsolesample\LJV_Dllconsolesample\bin\Debug\LJV_Dllconsolesample.exe.config
+D:\requirements\LJV_Dllconsolesample\LJV_Dllconsolesample\bin\Debug\LJV_Dllconsolesample.exe
+D:\requirements\LJV_Dllconsolesample\LJV_Dllconsolesample\bin\Debug\LJV_Dllconsolesample.pdb
+D:\requirements\LJV_Dllconsolesample\LJV_Dllconsolesample\obj\Debug\LJV_Dllconsolesample.exe
+D:\requirements\LJV_Dllconsolesample\LJV_Dllconsolesample\obj\Debug\LJV_Dllconsolesample.pdb
