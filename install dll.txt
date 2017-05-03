@@ -1,0 +1,17 @@
+auther:       amity timalsina 
+description: This is only for the ljv_dll .net version 3.5 
+
+How install dll files.
+
+1. run cmd command
+2. point the dll path to the cmd
+3. install regasm.exe 
+ note: for this please install .net framework 3.5
+4. type command 
+
+  regasm .dll file /tlb:.tlb file /codebase.
+
+
+5 finished. 
+
+ 
